@@ -1,0 +1,88 @@
+  body {
+     background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/grey_sandbag.png');
+  }
+
+
+
+   .zanr {
+    color: gray;
+    font-weight: bold;
+     font-size: 200%;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: Arial;
+   } 
+   
+    h1 {
+      color: red;
+      text-align: center;
+      font-size: 400%;
+      padding: 8px;
+
+    }
+  
+ .autor {
+  text-transform: uppercase;
+  font-weight: bold;
+
+ }
+
+  .zdroj {
+    font-family: monospace;
+
+  margin-bottom: 100px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+    p {
+      font-size: 150%;
+       margin-right: 50px;
+  margin-left: 50px;
+  text-align: justify;
+    }
+
+    h2 {
+      text-align: center;
+      font-size: 200%;
+      
+    }
+
+    blockquote {
+      font-family: monospace;
+      color: gray;
+      font-size: 240%;
+      margin-right: 50px;
+  margin-left: 70px;
+  font-style: italic;
+  border: 1px solid;
+    }
+
+     #pytel [type="text"] {
+  color: none;
+}
+
+     #soutez [type="text"] {
+  color: none;
+}
+
+ li{
+  
+  float: none;
+ 
+margin-right: 30px;
+  margin-left: 30px;
+ }
+    
+
+    #zaver {
+      font: medium/300% Time News Romans, serif;
+
+    }
+
+    footer {
+        text-align: center;
+    }
+
